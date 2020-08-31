@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Business Process Automation
+- 🌱 I’m currently learning Spring Boot and Java EE
+- 👯 I’m looking to collaborate on Camunda and React
+- 💬 Ask me about Running, Management Consultancy, Bikes and Turkey
+
 <!--
 **salska/salska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
